@@ -1,0 +1,39 @@
+.Praias {
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+  .white-mode {
+    background-color: white;
+    color: black;
+  }
+}
+
+.Praias-header {
+  font-size: calc(10px + 2vmin);
+  color: greenyellow;
+}
+
+.Praias-circle {
+  background-color: white;
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+}
+
+.slide-container {
+  line-height: 10px;
+  .nota {
+    font-size: 12px;
+  }
+}
+
+.Praias-square {
+  background-color: white;
+  border-radius: 5px;
+  width: 90px;
+  height: 90px;
+}
+
+.Praias-estrelas {
+  width: 40px;
+}
