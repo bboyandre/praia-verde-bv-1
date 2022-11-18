@@ -108,6 +108,74 @@ const Praias = ()=> {
                         </a>
                     </Slider>
                     <p className='pt-3'>Notícias</p>
+                    <div class='pb-3'>
+                        <a href="/praias" className='text-decoration-none text-white'>
+                            <div className='slide-container d-flex align-items-center'>
+                                <div className='Praias-square'></div>
+                                <div className='d-flex row ps-2'>
+                                    <div className='lh-lg'>
+                                        Notícias
+                                    </div>
+                                    <div className='lh-lg'>
+                                        Notícias</div>
+                                    {/*<div className='lh-lg nota'>
+                                        Notícias
+                                    </div>*/}
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class='pb-3'>
+                        <a href="/praias" className='text-decoration-none text-white'>
+                            <div className='slide-container d-flex align-items-center'>
+                                <div className='Praias-square'></div>
+                                <div className='d-flex row ps-2'>
+                                    <div className='lh-lg'>
+                                        Notícias
+                                    </div>
+                                    <div className='lh-lg'>
+                                        Notícias</div>
+                                    {/*<div className='lh-lg nota'>
+                                        Nota: 10 pontos
+                                    </div>*/}
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class='pb-3'>
+                        <a href="/praias" className='text-decoration-none text-white'>
+                            <div className='slide-container d-flex align-items-center'>
+                                <div className='Praias-square'></div>
+                                <div className='d-flex row ps-2'>
+                                    <div className='lh-lg'>
+                                        Notícias
+                                    </div>
+                                    <div className='lh-lg'>
+                                        Notícias</div>
+                                    {/*<div className='lh-lg nota'>
+                                        Notícias
+                                    </div>*/}
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class='pb-3'>
+                        <a href="/praias" className='text-decoration-none text-white'>
+                            <div className='slide-container d-flex align-items-center'>
+                                <div className='Praias-square'></div>
+                                <div className='d-flex row ps-2'>
+                                    <div className='lh-lg'>
+                                        Notícias
+                                    </div>
+                                    <div className='lh-lg'>
+                                        Notícias</div>
+                                    {/*<div className='lh-lg nota'>
+                                        Notícias
+                                    </div>*/}
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                     {/* <div style="text-align:right; width:300px;">powered by <a href="http://www.surfing-waves.com" rel="noopener" target="_blank" style="color:#ccc;font-size:10px">Surfing Waves</a></div>  */}
                 </div>
             </div>
