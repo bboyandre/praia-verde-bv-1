@@ -2,6 +2,8 @@ import './style.scss'
 import seta from '../../assets/arrow-left.png'
 import lixeira from '../../assets/lixeira.png'
 import usuario from '../../assets/usuario.png'
+import niveis2 from '../../assets/group-15.png'
+import niveis from '../../assets/grafico.png'
 
 import { GrExpand } from 'react-icons/gr'
 
@@ -58,7 +60,14 @@ const Praia = ()=> {
                     </a>
                 </section>
                     <section className="Praia-lixeiras">
-                        <p>Níveis de poluição</p>
+                        <p className='pt-3 ps-3'>Níveis de poluição</p>
+                        <div className='p-3 d-flex justify-content-between'>
+                            <img className='imagem-niveis' src={niveis} alt="" />
+                            <img className='imagem-niveis' src={niveis} alt="" />
+                        </div>
+                        <div className='p-3'>
+                            <img className="imagem-niveis2" src={niveis2} alt="Níveis" />
+                        </div>
                     </section>
                     <section className='pb-5'>
                         <h2 className='pt-3 pb-3'>
